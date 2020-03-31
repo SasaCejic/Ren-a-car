@@ -1,0 +1,302 @@
+[ {
+    "marka": "Audi",
+    "model": "A1",
+    "klasa": "gradski",
+    "broj_sedista": "4",
+    "cena": "20€ / dan",
+    "slika":"audi_a1"
+},{
+    "marka": "Audi",
+    "model": "A3",
+    "klasa": "sport",
+    "broj_sedista": "5",
+    "cena": "23€ / dan",
+    "slika":"audi_a3"
+},{
+    "marka": "Audi",
+    "model": "A4",
+    "klasa": "limuzina",
+    "broj_sedista": "5",
+    "cena": "27€ / dan",
+    "slika":"audi_a4"
+},{
+    "marka": "Alfa Romeo",
+    "model": "Giulia",
+    "klasa": "limuzina",
+    "broj_sedista": "5",
+    "cena": "23€ / dan",
+    "slika":"alfa_romeo_giulia"
+},{
+    "marka": "Alfa Romeo",
+    "model": "Mito",
+    "klasa": "gradski",
+    "broj_sedista": "4",
+    "cena": "17€ / dan",
+    "slika":"alfa_romeo_mito"
+},{
+    "marka": "Alfa Romeo",
+    "model": "Giulietta",
+    "klasa": "sport",
+    "broj_sedista": "5",
+    "cena": "20€ / dan",
+    "slika":"alfa_romeo_giulietta"
+},{
+    "marka": "Alfa Romeo",
+    "model": "Stelvio",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "25€ / dan",
+    "slika":"alfa_romeo_stelvio"
+}, {
+    "marka": "BMW",
+    "model": "M5",
+    "klasa": "sport",
+    "broj_sedista": "5",
+    "cena": "35€ / dan",
+    "slika":"bmw_m5"
+}, {
+    "marka": "BMW",
+    "model": "Serija 1",
+    "klasa": "sport",
+    "broj_sedista": "4",
+    "cena": "30€ / dan",
+    "slika":"bmw_serija_1"
+}, {
+    "marka": "BMW",
+    "model": "M2",
+    "klasa": "sport",
+    "broj_sedista": "4",
+    "cena": "32€ / dan",
+    "slika":"bmw_m2"
+},{
+    "marka": "Citroen",
+    "model": "C1",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "15€ / dan",
+    "slika":"citroen_c1"
+},{
+    "marka": "Citroen",
+    "model": "C5",
+    "klasa": "karavan",
+    "broj_sedista": "5",
+    "cena": "20€ / dan",
+    "slika":"citroen_c5"
+},{
+    "marka": "Fiat",
+    "model": "500",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "15€ / dan",
+    "slika":"fiat_500"
+},{
+    "marka": "Fiat",
+    "model": "Tipo",
+    "klasa": "limuzina",
+    "broj_sedista": "5",
+    "cena": "20€ / dan",
+    "slika":"fiat_tipo"
+},{
+    "marka": "Fiat",
+    "model": "Punto",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "15€ / dan",
+    "slika":"fiat_punto"
+},{
+    "marka": "Folkswagen",
+    "model": "Golf",
+    "klasa": "sport",
+    "broj_sedista": "5",
+    "cena": "25€ / dan",
+    "slika": "folkswagen_golf"
+},{
+    "marka": "Folkswagen",
+    "model": "Polo",
+    "klasa": "sport",
+    "broj_sedista": "5",
+    "cena": "20€ / dan",
+    "slika": "folkswagen_polo"
+},{
+    "marka": "Folkswagen",
+    "model": "Touareg",
+    "klasa": "džip",
+    "broj_sedista": "5",
+    "cena": "35€ / dan",
+    "slika": "folkswagen_touareg"
+},{
+    "marka": "Jaguar",
+    "model": "F-PACE",
+    "klasa": "karavan",
+    "broj_sedista": "5",
+    "cena": "33€ / dan",
+    "slika": "jaguar_f_pace"
+},{
+    "marka": "Jaguar",
+    "model": "XF",
+    "klasa": "limuzina",
+    "broj_sedista": "5",
+    "cena": "35€ / dan",
+    "slika": "jaguar_xf"
+},{
+    "marka": "Jeep",
+    "model": "Renegade",
+    "klasa": "džip",
+    "broj_sedista": "5",
+    "cena": "42€ / dan",
+    "slika": "jeep_renegade"
+},{
+    "marka": "Jeep",
+    "model": "Compass",
+    "klasa": "džip",
+    "broj_sedista": "5",
+    "cena": "40€ / dan",
+    "slika": "jeep_compass"
+},{
+    "marka": "Jeep",
+    "model": "Cherokee",
+    "klasa": "džip",
+    "broj_sedista": "5",
+    "cena": "43€ / dan",
+    "slika": "jeep_cherokee"
+},{
+    "marka": "Jeep",
+    "model": "Grand Cherokee",
+    "klasa": "džip",
+    "broj_sedista": "5",
+    "cena": "45€ / dan",
+    "slika": "jeep_grand_cherokee"
+},{
+    "marka": "Kia",
+    "model": "Rio",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "15€ / dan",
+    "slika": "kia_rio"
+},{
+    "marka": "Kia",
+    "model": "Ceed",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "17€ / dan",
+    "slika": "kia_ceed"
+},{
+    "marka": "Kia",
+    "model": "Ceed Sportswagon",
+    "klasa": "karavan",
+    "broj_sedista": "5",
+    "cena": "18€ / dan",
+    "slika": "kia_ceed_sportswagon"
+},{
+    "marka": "Mercedes",
+    "model": "A klasa",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "20€ / dan",
+    "slika":"mercedes_a_klasa"
+},{
+    "marka": "Mercedes",
+    "model": "B klasa",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "23€ / dan",
+    "slika":"mercedes_b_klasa"
+},{
+    "marka": "Mercedes",
+    "model": "C klasa",
+    "klasa": "limuzina",
+    "broj_sedista": "5",
+    "cena": "35€ / dan",
+    "slika":"mercedes_c_klasa"
+},{
+    "marka": "Mercedes",
+    "model": "E klasa",
+    "klasa": "limuzina",
+    "broj_sedista": "5",
+    "cena": "40€ / dan",
+    "slika":"mercedes_e_klasa"
+},{
+    "marka": "Mercedes",
+    "model": "GLE",
+    "klasa": "džip",
+    "broj_sedista": "5",
+    "cena": "45€ / dan",
+    "slika":"mercedes_gle"
+},{
+    "marka": "Mercedes",
+    "model": "SL Roadster",
+    "klasa": "sport",
+    "broj_sedista": "2",
+    "cena": "30€ / dan",
+    "slika":"mercedes_sl_roadster"
+},{
+    "marka": "Opel",
+    "model": "Adam",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "15€ / dan",
+    "slika":"opel_adam"
+},{
+    "marka": "Opel",
+    "model": "Corsa",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "15€ / dan",
+    "slika":"opel_corsa"
+},{
+    "marka": "Opel",
+    "model": "Astra",
+    "klasa": "limuzina",
+    "broj_sedista": "5",
+    "cena": "23€ / dan",
+    "slika":"opel_astra"
+},{
+    "marka": "Peugeot",
+    "model": "108",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "15€ / dan",
+    "slika":"peugeot_108"
+},{
+    "marka": "Peugeot",
+    "model": "208",
+    "klasa": "gradski",
+    "broj_sedista": "5",
+    "cena": "15€ / dan",
+    "slika":"peugeot_208"
+},{
+    "marka": "Peugeot",
+    "model": "508",
+    "klasa": "limuzina",
+    "broj_sedista": "5",
+    "cena": "25€ / dan",
+    "slika":"peugeot_508"
+},{
+    "marka": "Peugeot",
+    "model": "3008",
+    "klasa": "džip",
+    "broj_sedista": "5",
+    "cena": "30€ / dan",
+    "slika":"peugeot_3008"
+},{
+    "marka": "Smart",
+    "model": "ForTwo",
+    "klasa": "gradski",
+    "broj_sedista": "2",
+    "cena": "22€ / dan",
+    "slika":"smart_fortwo"
+},{
+    "marka": "Smart",
+    "model": "City-Coupe",
+    "klasa": "gradski",
+    "broj_sedista": "2",
+    "cena": "20€ / dan",
+    "slika":"smart_city_coupe"
+},{
+    "marka": "Smart",
+    "model": "ForFour",
+    "klasa": "gradski",
+    "broj_sedista": "4",
+    "cena": "25€ / dan",
+    "slika":"smart_forfour"
+}]
